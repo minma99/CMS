@@ -1,0 +1,30 @@
+.topcontainer{
+    top: 0;
+    z-index: 999;
+    margin: 0px;
+}
+.notif{
+    position: relative;
+
+}
+.notifbadge{
+    font-size:10px;
+    position: absolute;
+    margin-top: 5px;
+    margin-left: -12px;
+    
+
+}
+.image{
+    width:45px;
+    height: 45px;
+   
+
+}
+.link{
+    color: rgba(0, 0, 0, 0.845);
+    text-decoration: none;
+}
+.logo{
+    text-shadow: 2px 2px 1px rgb(197, 197, 197);
+}

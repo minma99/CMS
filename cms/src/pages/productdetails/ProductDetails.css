@@ -1,0 +1,80 @@
+.proDetailsMainDiv{
+    flex: 5;
+    padding: 20px;
+    margin-top: 70px;
+}
+.productTopLeft{
+    flex: 1;
+
+}
+.productTopRight{
+    margin: 20px;
+    padding: 20px;
+    flex: 1;
+    
+
+}
+.productTopInfo{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.proTopRightImg{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+.productInfoItem{
+    display: flex;
+    margin-top: 5px;
+    
+}
+.productInfoKey{
+    margin-right: 5px;
+    font-weight: 500;
+    color: rgba(0, 0, 0, 0.701);
+}
+.productInfoValue{
+    color: rgba(0, 0, 0, 0.444);
+}
+.productBottom{
+    padding: 20px;
+    margin: 20px;
+}
+.productForm{
+    display: flex;
+    justify-content: space-between;
+}
+.productFormLeft{
+    display: flex;
+    flex-direction: column;
+
+}
+.productFormLeft >label{
+    margin: 20px 0px 2px 0px;
+    color: rgb(75, 75, 75);
+}
+.productFormLeft> input{
+    
+    border: none;
+    padding: 5px;
+    border-bottom: 1px solid rgba(32, 32, 32, 0.646);
+    outline: none;
+}
+.productFormRight{
+    display: flex;
+     flex-direction:column ;
+     justify-content: space-around;
+
+}
+.productUploader{
+    display: flex;
+    align-items: center;
+}
+.productUploaderImg{
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+    margin-right: 5px;
+}

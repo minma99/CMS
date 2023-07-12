@@ -1,0 +1,14 @@
+.productsmaindiv{
+    flex: 5;
+    padding: 20px;
+    height: 80vh;
+    margin: 75px 0px;
+}
+.productlist{
+    display: flex;
+    align-items: center;
+}
+.productlistimg{
+    width: 30px;
+    height: 30px;
+}

@@ -1,0 +1,14 @@
+.usersmaindiv{
+    flex: 5;
+    padding: 20px;
+    height: 80vh;
+    margin: 75px 0px;
+}
+.userlist{
+    display: flex;
+    align-items: center;
+}
+.userlistimg{
+    width: 30px;
+    height: 30px;
+}

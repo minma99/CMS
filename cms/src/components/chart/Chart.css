@@ -1,0 +1,6 @@
+.maindiv{
+   margin: 20px 0px;
+   box-sizing: border-box;
+   box-shadow: 2px 2px 10px 1px rgba(128, 128, 128, 0.143);
+   padding: 10px;
+}
